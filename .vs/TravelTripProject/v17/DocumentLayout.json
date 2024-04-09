@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_5\\traveltripproject\\traveltripproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_5\\traveltripproject\\traveltripproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_5\\traveltripproject\\traveltripproject\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_5\\traveltripproject\\traveltripproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_5\\traveltripproject\\traveltripproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_5\\traveltripproject\\traveltripproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{51722057-0080-40FA-ABD6-78B13DED67BF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:31:29.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TravelTripProject\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TravelTripProject\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:25:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TravelTripProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TravelTripProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:24:20.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:24:29.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Web.config",
+              "RelativeDocumentMoniker": "TravelTripProject\\Web.config",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Web.config",
+              "RelativeToolTip": "TravelTripProject\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-09T18:23:17.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_5\\TravelTripProject\\TravelTripProject\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:21:34.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

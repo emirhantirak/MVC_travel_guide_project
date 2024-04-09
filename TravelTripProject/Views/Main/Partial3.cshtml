@@ -1,0 +1,19 @@
+﻿@using TravelTripProject.Models.Entities
+@model List<Blog>
+
+<div class="padding">
+    <h4>Most Popular 10 Blog</h4>
+    <ul class="list list-pad">
+        @{ int i = 0;}
+        @foreach (var x in Model)
+        {
+
+            <li class="list-bg"><span>@{i++; } @i.</span><a href="/Blog/BlogDetail/@x.ID">@x.Title</a></li>
+
+
+        }
+
+    </ul>
+    <a href="/Blog" class="link1">See All of the Posts</a>
+</div>
+

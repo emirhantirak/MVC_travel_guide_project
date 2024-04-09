@@ -1,0 +1,16 @@
+﻿@model TravelTripProject.Models.Entities.Comment
+
+<div class="content-form">
+    <h3>Make a Comment</h3>
+
+    <form method="post">
+        <input type="hidden" placeholder="ID" name="BlogID" value="@ViewBag.value" readonly />
+        <input type="text" placeholder="Username" name="Username" required />
+        <input type="text" placeholder="E-Mail" name="Mail" required />
+
+        <textarea placeholder="Message" name="Commnt"></textarea>
+        <input type="submit" value="Submit" />
+    </form>
+</div>
+
+
